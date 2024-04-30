@@ -1,6 +1,6 @@
 # 💻 | Atalhos úteis do Visual Studio Code
 
-#### Lista de atalhos:
+#### (📋) - Lista de atalhos:
 
 | Atalho                                     | Teclas                                                               |
 | ------                                     | -----------                                                          |
