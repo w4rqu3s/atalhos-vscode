@@ -1,6 +1,6 @@
 # 💻 | Atalhos úteis do Visual Studio Code
 
-#### (📋) - Uma lista com os atalhos mais úteis para programar no Visual Studio Code.
+#### Lista de atalhos:
 
 | Atalho                                     | Teclas                                                               |
 | ------                                     | -----------                                                          |
