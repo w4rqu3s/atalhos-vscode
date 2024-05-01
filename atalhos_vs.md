@@ -4,7 +4,7 @@
 
 | Atalho                                     | Teclas                                                               |
 | ------                                     | -----------                                                          |
-| __Copiar linha para cima ou para baixo__   | _Alt_ + _seta_ (cima ou baixo)                                       |
+| __Copiar linha para cima ou para baixo__   | _Shift_ + _Alt_ + _seta_ (cima ou baixo)                             |
 | __Mover a linha__                          | _Alt_ + _seta_ (cima ou baixo)                                       |  
 | __Apagar a linha__                         | _Ctrl_ + _Shift_ + _K_                                               |
 | __Comentar/descomentar a linha__           | _Ctrl_ + _;_                                                         |
