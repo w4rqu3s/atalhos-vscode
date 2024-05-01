@@ -33,6 +33,7 @@
 | __Vai para o início__                      | _Ctrl_ + _Home_                                                      |
 | __Rola a tela__                            | _Ctrl_ + _Seta_ (cima ou baixo)                                      |
 | __Navega entre os arquivos__               | _Ctrl_ + _Pg Up_ **ou** _Ctrl_ + _Pg Down_                           |
+| __Fecha o arquivo aberto__                 | _Ctrl_ + _F4_                                                        |
 
 
 
